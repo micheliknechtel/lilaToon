@@ -2,7 +2,7 @@
 
 **LilaToon** its a tool that I build myself to colorize images automaticaly.
 
-To do so, I developed a technique to build and modify 2D images illuminated by normal maps resconstructed in interaction time based on a data structure that describes the geometrical and topological information of the objects contained in the images.
+To do so, I developed a technique to build and modify 2D images illuminated by normal maps resconstructed in interaction time, and based on a data structure that describes the geometrical and topological information of the objects contained in the images.
 
 It is a way to color images that can be done in a totally automated way, requiring little interaction with the user or in a semi-assisted way, where the user can interact by building and modifying 2D images colored by using normal maps rebuilt on interaction time.
 
