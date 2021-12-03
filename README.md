@@ -2,6 +2,10 @@
 
 **LilaToon** its a tool that I build myself to colorize images automaticaly.
 
+To do so, I developed a technique to build and modify 2D images illuminated by normal maps resconstructed in interaction time based on a data structure that describes the geometrical and topological information of the objects contained in the images.
+
+It is a way to color images that can be done in a totally automated way, requiring little interaction with the user or in a semi-assisted way, where the user can interact by building and modifying 2D images colored by using normal maps rebuilt on interaction time.
+
 ## OS requirements:
 You should run it in Windows and only, I'm using some multi-thread windows functionality. 
 
@@ -19,7 +23,7 @@ post fixed word "artLine", for example **kagome_artLine.png**.
 
 3. Then click in the icon **processar**, you will be positioned in the **shader** frame, then you must click in he bouton **calcular**.
 
->>That's it! The code is inside of folder code, which algorithm correspond to a frame that you see in the application.
+4. That's it! :-)
 
 ## Lila Short Demo!
 The second part of this video https://www.youtube.com/watch?v=nL2BxFFR4Tc is a short demo of the application.
