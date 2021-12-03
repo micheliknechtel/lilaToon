@@ -14,3 +14,5 @@ Once you load the image to be colorized, you should click in the icon colorida, 
 Then click in the icon "processar", you will be placed in Shader frame, you must click in he boton Calcular.
 
 That's it ... The code is inside of folder code, which algorithm correspond to a frame that you my see in the software.
+
+The second part of this video https://www.youtube.com/watch?v=nL2BxFFR4Tc is a short demo of the application.
