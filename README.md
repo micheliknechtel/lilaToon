@@ -2,6 +2,7 @@
 
 **LilaToon** its a tool that I build myself to colorize images automaticaly.
 
+## How to install Lila ?
 You should run it in Windows and only, I'm using some multi-thread windows functionality. 
 
 To do so, please donwload the [git project](https://github.com/micheliknechtel/lilaToon/tree/master/LilaToon 
