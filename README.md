@@ -4,6 +4,8 @@ LilaToon its a tool that I build myself to colorize images automaticaly.
 
 You should run it in Windows and only, I'm using some multi-thread windows functionality. 
 
+To do so, please donwload the folder lilatoon that has the executable.
+
 The application might ask you to install some old features, just do it and should be fine!
 
 To use the tool you might click in icon art line, and load from the folder images a image that has as
