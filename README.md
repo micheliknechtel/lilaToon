@@ -1,4 +1,4 @@
-# lilaToon
+# What is LilaToon ?
 
 **LilaToon** its a tool that I build myself to colorize images automaticaly.
 
