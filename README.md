@@ -5,12 +5,11 @@
 You should run it in Windows and only, I'm using some multi-thread windows functionality. 
 
 To do so, please donwload the [git project](https://github.com/micheliknechtel/lilaToon/tree/master/LilaToon 
-), that has the windows binary **Lila.exe**.
-
-Also download the images to be colorized from [here](https://github.com/micheliknechtel/lilaToon/tree/master/images)
+), that has the windows binary **Lila.exe**, In addition, download the images to be colorized from [here].(https://github.com/micheliknechtel/lilaToon/tree/master/images)
 
 The application might ask you to install some old features, just do it and should be fine!
 
+## How to use Lila ?
 To use the tool, you might click in icon "art line", and load from the folder images a image that has as
 post fixed name "artLine", example kagome_artLine.png.
 
