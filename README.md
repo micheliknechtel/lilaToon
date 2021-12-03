@@ -6,6 +6,8 @@ To do so, I developed a technique to **build and modify 2D images illuminated by
 
 It's a way for coloring images that can be done in a totally **automated** way, requiring little interaction with the user or in a **semi-assisted way**, where the user can interact by building and modifying 2D images colored by using normal maps rebuilt on interaction time.
 
+My work is based in this [article](https://www.researchgate.net/publication/221523270_Lumo_Illumination_for_cel_animation)
+
 ## OS requirements:
 You should run it in Windows and only, I'm using some multi-thread windows functionality. 
 
